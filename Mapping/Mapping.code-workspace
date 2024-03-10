@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "PythonProjects",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"convertbng",
+			"lonlat"
+		]
+	}
+}
