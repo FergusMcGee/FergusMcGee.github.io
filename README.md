@@ -1,1 +1,1 @@
-A simple sit for mapping tests with python
+A simple site for mapping tests with python
