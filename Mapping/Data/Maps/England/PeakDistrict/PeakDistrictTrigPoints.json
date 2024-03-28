@@ -1,0 +1,706 @@
+[
+  {
+    "Name": "Abney Moor (Durham Edge) *",
+    "Grid Reference": "SK 18043 79421",
+    "Area": "Abney Moor (Durham Edge) *",
+    "Latitude": 53.31142579403521,
+    "Longitude": -1.730659205837999,
+    "Ticked": "X"
+  },
+  {
+    "Name": "Aleck Low *",
+    "Grid Reference": "SK 17502 59475",
+    "Area": "Aleck Low *",
+    "Latitude": 53.13215455243625,
+    "Longitude": -1.7398664472667529,
+    "Ticked": ""
+  },
+  {
+    "Name": "Alphin Pike",
+    "Grid Reference": "SE 00296 02817",
+    "Area": "Alphin Pike",
+    "Latitude": 53.522024861215236,
+    "Longitude": -1.997005261314164,
+    "Ticked": ""
+  },
+  {
+    "Name": "Axe Edge",
+    "Grid Reference": "SK 03502 70613",
+    "Area": "Axe Edge",
+    "Latitude": 53.23254552216609,
+    "Longitude": -1.94899461916823,
+    "Ticked": ""
+  },
+  {
+    "Name": "Back Tor",
+    "Grid Reference": "SK 19763 90991",
+    "Area": "Back Tor",
+    "Latitude": 53.41536163294884,
+    "Longitude": -1.7041253160862186,
+    "Ticked": "Y"
+  },
+  {
+    "Name": "Bank Top *",
+    "Grid Reference": "SK 11802 60064",
+    "Area": "Bank Top *",
+    "Latitude": 53.13760446540457,
+    "Longitude": -1.8250380500723655,
+    "Ticked": ""
+  },
+  {
+    "Name": "Birchen Edge",
+    "Grid Reference": "SK 27825 73093",
+    "Area": "Birchen Edge",
+    "Latitude": 53.25412512794833,
+    "Longitude": -1.5843960718312997,
+    "Ticked": ""
+  },
+  {
+    "Name": "Black Edge",
+    "Grid Reference": "SK 06254 77006",
+    "Area": "Black Edge",
+    "Latitude": 53.289985953355405,
+    "Longitude": -1.9076435314594542,
+    "Ticked": ""
+  },
+  {
+    "Name": "Blacka Plantation *",
+    "Grid Reference": "SK 28995 81251",
+    "Area": "Blacka Plantation *",
+    "Latitude": 53.3273906451637,
+    "Longitude": -1.5661173251319807,
+    "Ticked": ""
+  },
+  {
+    "Name": "Blackstones Low",
+    "Grid Reference": "SK 21000 55420",
+    "Area": "Blackstones Low",
+    "Latitude": 53.09557916759036,
+    "Longitude": -1.6878486919601015,
+    "Ticked": ""
+  },
+  {
+    "Name": "Blake Mere (Merryton Low)",
+    "Grid Reference": "SK 04134 60999",
+    "Area": "Blake Mere (Merryton Low)",
+    "Latitude": 53.146122112258034,
+    "Longitude": -1.9396475563850124,
+    "Ticked": ""
+  },
+  {
+    "Name": "Blakelow Hill *",
+    "Grid Reference": "SK 25454 59395",
+    "Area": "Blakelow Hill *",
+    "Latitude": 53.13111677499866,
+    "Longitude": -1.6210210227548567,
+    "Ticked": ""
+  },
+  {
+    "Name": "Bole Hill *",
+    "Grid Reference": "SK 18403 67589",
+    "Area": "Bole Hill *",
+    "Latitude": 53.2050595645155,
+    "Longitude": -1.7259361077163884,
+    "Ticked": ""
+  },
+  {
+    "Name": "Bradnop *",
+    "Grid Reference": "SK 03842 54265",
+    "Area": "Bradnop *",
+    "Latitude": 53.08559242247723,
+    "Longitude": -1.9440914319922198,
+    "Ticked": ""
+  },
+  {
+    "Name": "Bradwell Moor",
+    "Grid Reference": "SK 13179 80133",
+    "Area": "Bradwell Moor",
+    "Latitude": 53.31796801382454,
+    "Longitude": -1.803632199004725,
+    "Ticked": ""
+  },
+  {
+    "Name": "Brown Knoll",
+    "Grid Reference": "SK 08369 85129",
+    "Area": "Brown Knoll",
+    "Latitude": 53.362972012724015,
+    "Longitude": -1.8757046386876517,
+    "Ticked": ""
+  },
+  {
+    "Name": "Burbage Edge",
+    "Grid Reference": "SK 02960 73247",
+    "Area": "Burbage Edge",
+    "Latitude": 53.25622517386236,
+    "Longitude": -1.95709079250004,
+    "Ticked": ""
+  },
+  {
+    "Name": "Calton Pastures",
+    "Grid Reference": "SK 23779 68174",
+    "Area": "Calton Pastures",
+    "Latitude": 53.21010584111546,
+    "Longitude": -1.6454058951452426,
+    "Ticked": ""
+  },
+  {
+    "Name": "Chinley Churn *",
+    "Grid Reference": "SK 03549 83633",
+    "Area": "Chinley Churn *",
+    "Latitude": 53.34957832424731,
+    "Longitude": -1.9481497223534647,
+    "Ticked": ""
+  },
+  {
+    "Name": "Cock Hill",
+    "Grid Reference": "SK 05931 96189",
+    "Area": "Cock Hill",
+    "Latitude": 53.46241755869627,
+    "Longitude": -1.9121357785033837,
+    "Ticked": ""
+  },
+  {
+    "Name": "Dead Edge End",
+    "Grid Reference": "SE 12445 01728",
+    "Area": "Dead Edge End",
+    "Latitude": 53.5120919730326,
+    "Longitude": -1.8138055563768283,
+    "Ticked": ""
+  },
+  {
+    "Name": "Ecton Hill",
+    "Grid Reference": "SK 09979 57998",
+    "Area": "Ecton Hill",
+    "Latitude": 53.11907017580921,
+    "Longitude": -1.8523517952939534,
+    "Ticked": "Y"
+  },
+  {
+    "Name": "Edale Moor (Kinder Scout PLatitudeeau)",
+    "Grid Reference": "SK 12927 87809",
+    "Area": "Edale Moor (Kinder Scout PLatitudeeau)",
+    "Latitude": 53.38697049111051,
+    "Longitude": -1.8071041454159384,
+    "Ticked": ""
+  },
+  {
+    "Name": "Elton Common (aka Blake Low) *",
+    "Grid Reference": "SK 22069 60220",
+    "Area": "Elton Common (aka Blake Low) *",
+    "Latitude": 53.13868269314533,
+    "Longitude": -1.6715563632175012,
+    "Ticked": ""
+  },
+  {
+    "Name": "Emlin Ridge",
+    "Grid Reference": "SK 23987 93364",
+    "Area": "Emlin Ridge",
+    "Latitude": 53.43651676452132,
+    "Longitude": -1.6403942131261822,
+    "Ticked": ""
+  },
+  {
+    "Name": "Featherbed Moss",
+    "Grid Reference": "SE 04643 01169",
+    "Area": "Featherbed Moss",
+    "Latitude": 53.50719254342546,
+    "Longitude": -1.9314635580396822,
+    "Ticked": ""
+  },
+  {
+    "Name": "Flask Edge",
+    "Grid Reference": "SK 28492 78842",
+    "Area": "Flask Edge",
+    "Latitude": 53.30576471271158,
+    "Longitude": -1.5738851871127308,
+    "Ticked": ""
+  },
+  {
+    "Name": "Grindon Moor *",
+    "Grid Reference": "SK 07153 55089",
+    "Area": "Grindon Moor *",
+    "Latitude": 53.09296599307,
+    "Longitude": -1.894640386087433,
+    "Ticked": ""
+  },
+  {
+    "Name": "Gun",
+    "Grid Reference": "SJ 97006 61515",
+    "Area": "Gun",
+    "Latitude": 53.15076649097277,
+    "Longitude": -2.0462226894326037,
+    "Ticked": ""
+  },
+  {
+    "Name": "Hardings Booth *",
+    "Grid Reference": "SK 07203 63937",
+    "Area": "Hardings Booth *",
+    "Latitude": 53.17249952881115,
+    "Longitude": -1.893698137626538,
+    "Ticked": ""
+  },
+  {
+    "Name": "Harland South (Beeley Moor)",
+    "Grid Reference": "SK 30088 68157",
+    "Area": "Harland South (Beeley Moor)",
+    "Latitude": 53.20963474136932,
+    "Longitude": -1.5509407352195872,
+    "Ticked": ""
+  },
+  {
+    "Name": "Harry Hut",
+    "Grid Reference": "SK 04477 90771",
+    "Area": "Harry Hut",
+    "Latitude": 53.413731954419056,
+    "Longitude": -1.9341107281854044,
+    "Ticked": ""
+  },
+  {
+    "Name": "Hawks Low *",
+    "Grid Reference": "SK 16972 57028",
+    "Area": "Hawks Low *",
+    "Latitude": 53.110175756225935,
+    "Longitude": -1.7479164865447425,
+    "Ticked": ""
+  },
+  {
+    "Name": "Hey Edge",
+    "Grid Reference": "SE 08030 00440",
+    "Area": "Hey Edge",
+    "Latitude": 53.50059994410759,
+    "Longitude": -1.880413874645385,
+    "Ticked": ""
+  },
+  {
+    "Name": "High Low *",
+    "Grid Reference": "SK 15571 67700",
+    "Area": "High Low *",
+    "Latitude": 53.20614718986843,
+    "Longitude": -1.7683300648138605,
+    "Ticked": ""
+  },
+  {
+    "Name": "High Neb",
+    "Grid Reference": "SK 22816 85344",
+    "Area": "High Neb",
+    "Latitude": 53.36448155242344,
+    "Longitude": -1.658598120273534,
+    "Ticked": ""
+  },
+  {
+    "Name": "High Rake *",
+    "Grid Reference": "SK 20881 73402",
+    "Area": "High Rake *",
+    "Latitude": 53.257219748292215,
+    "Longitude": -1.6884579467755663,
+    "Ticked": ""
+  },
+  {
+    "Name": "High Wheeldon",
+    "Grid Reference": "SK 10037 66111",
+    "Area": "High Wheeldon",
+    "Latitude": 53.19199602051484,
+    "Longitude": -1.8512337520468267,
+    "Ticked": ""
+  },
+  {
+    "Name": "Higher Shelfstones",
+    "Grid Reference": "SK 08894 94787",
+    "Area": "Higher Shelfstones",
+    "Latitude": 53.44977470537201,
+    "Longitude": -1.8675467743279628,
+    "Ticked": ""
+  },
+  {
+    "Name": "Hill House",
+    "Grid Reference": "SK 05169 58571",
+    "Area": "Hill House",
+    "Latitude": 53.124288128719705,
+    "Longitude": -1.9242116415270614,
+    "Ticked": ""
+  },
+  {
+    "Name": "Hollinsclough Moor *",
+    "Grid Reference": "SK 05531 65838",
+    "Area": "Hollinsclough Moor *",
+    "Latitude": 53.18960702683017,
+    "Longitude": -1.918679206382283,
+    "Ticked": ""
+  },
+  {
+    "Name": "Holme Moss (Black Hill)",
+    "Grid Reference": "SE 07816 04684",
+    "Area": "Holme Moss (Black Hill)",
+    "Latitude": 53.538749704998004,
+    "Longitude": -1.8835356670906234,
+    "Ticked": ""
+  },
+  {
+    "Name": "Hopping Top aka Harthill Moor *",
+    "Grid Reference": "SK 20977 62718",
+    "Area": "Hopping Top aka Harthill Moor *",
+    "Latitude": 53.161180585710476,
+    "Longitude": -1.6877173679572193,
+    "Ticked": ""
+  },
+  {
+    "Name": "Kinder Low (Kinder Scout PLatitudeeau)",
+    "Grid Reference": "SK 07904 87059",
+    "Area": "Kinder Low (Kinder Scout PLatitudeeau)",
+    "Latitude": 53.38032702856553,
+    "Longitude": -1.8826445037402462,
+    "Ticked": ""
+  },
+  {
+    "Name": "Kirk Edge *",
+    "Grid Reference": "SK 27723 92947",
+    "Area": "Kirk Edge *",
+    "Latitude": 53.43258626286144,
+    "Longitude": -1.584193480287548,
+    "Ticked": ""
+  },
+  {
+    "Name": "Ladder Hill *",
+    "Grid Reference": "SK 02772 78867",
+    "Area": "Ladder Hill *",
+    "Latitude": 53.30674283153431,
+    "Longitude": -1.9598617825111109,
+    "Ticked": ""
+  },
+  {
+    "Name": "Lantern Pike",
+    "Grid Reference": "SK 02390 87945",
+    "Area": "Lantern Pike",
+    "Latitude": 53.38834342948569,
+    "Longitude": -1.9655291886727904,
+    "Ticked": ""
+  },
+  {
+    "Name": "Lean Low *",
+    "Grid Reference": "SK 14956 62235",
+    "Area": "Lean Low *",
+    "Latitude": 53.15704081276572,
+    "Longitude": -1.7777914915555146,
+    "Ticked": ""
+  },
+  {
+    "Name": "Long Rake *",
+    "Grid Reference": "SK 18363 64158",
+    "Area": "Long Rake *",
+    "Latitude": 53.17422045861583,
+    "Longitude": -1.7267309267920488,
+    "Ticked": ""
+  },
+  {
+    "Name": "Mam Tor",
+    "Grid Reference": "SK 12769 83612",
+    "Area": "Mam Tor",
+    "Latitude": 53.34924933537628,
+    "Longitude": -1.8096477123840067,
+    "Ticked": ""
+  },
+  {
+    "Name": "Margery Hill",
+    "Grid Reference": "SK 18911 95695",
+    "Area": "Margery Hill",
+    "Latitude": 53.45767406303682,
+    "Longitude": -1.7166630550542232,
+    "Ticked": ""
+  },
+  {
+    "Name": "Martins Low",
+    "Grid Reference": "SK 07112 51986",
+    "Area": "Martins Low",
+    "Latitude": 53.06507357681255,
+    "Longitude": -1.8953201267824538,
+    "Ticked": ""
+  },
+  {
+    "Name": "Moor Plantation (Stanton Moor)",
+    "Grid Reference": "SK 24496 62906",
+    "Area": "Moor Plantation (Stanton Moor)",
+    "Latitude": 53.16272097927056,
+    "Longitude": -1.635071939135915,
+    "Ticked": ""
+  },
+  {
+    "Name": "Moor Top *",
+    "Grid Reference": "SK 02964 55303",
+    "Area": "Moor Top *",
+    "Latitude": 53.094928435745125,
+    "Longitude": -1.9571907108074118,
+    "Ticked": ""
+  },
+  {
+    "Name": "Musden Low *",
+    "Grid Reference": "SK 11832 50080",
+    "Area": "Musden Low *",
+    "Latitude": 53.04785782455135,
+    "Longitude": -1.8249536427464008,
+    "Ticked": ""
+  },
+  {
+    "Name": "Noton Barn *",
+    "Grid Reference": "SK 21667 66169",
+    "Area": "Noton Barn *",
+    "Latitude": 53.1921732917244,
+    "Longitude": -1.6771649319706483,
+    "Ticked": ""
+  },
+  {
+    "Name": "Oker Hill",
+    "Grid Reference": "SK 27120 61303",
+    "Area": "Oker Hill",
+    "Latitude": 53.14818547656498,
+    "Longitude": -1.5959603814363224,
+    "Ticked": ""
+  },
+  {
+    "Name": "Outer Edge",
+    "Grid Reference": "SK 17703 96973",
+    "Area": "Outer Edge",
+    "Latitude": 53.469202905740325,
+    "Longitude": -1.7347843009238648,
+    "Ticked": ""
+  },
+  {
+    "Name": "Ox Stones",
+    "Grid Reference": "SK 28021 83134",
+    "Area": "Ox Stones",
+    "Latitude": 53.34436807165705,
+    "Longitude": -1.5805754909715248,
+    "Ticked": ""
+  },
+  {
+    "Name": "Parsley Hay Farm *",
+    "Grid Reference": "SK 14594 64229",
+    "Area": "Parsley Hay Farm *",
+    "Latitude": 53.17497453775333,
+    "Longitude": -1.7831148824144276,
+    "Ticked": ""
+  },
+  {
+    "Name": "Revidge",
+    "Grid Reference": "SK 07739 59910",
+    "Area": "Revidge",
+    "Latitude": 53.13629377696494,
+    "Longitude": -1.8857754183336166,
+    "Ticked": "Y"
+  },
+  {
+    "Name": "Reynards (Tissington Hill) *",
+    "Grid Reference": "SK 15107 52677",
+    "Area": "Reynards (Tissington Hill) *",
+    "Latitude": 53.07112047359204,
+    "Longitude": -1.7759797981177605,
+    "Ticked": ""
+  },
+  {
+    "Name": "Rod Moor",
+    "Grid Reference": "SK 26268 88413",
+    "Area": "Rod Moor",
+    "Latitude": 53.391907367157856,
+    "Longitude": -1.6064694988979824,
+    "Ticked": ""
+  },
+  {
+    "Name": "Saddleworth (Broadstone Hill)",
+    "Grid Reference": "SE 02076 06964",
+    "Area": "Saddleworth (Broadstone Hill)",
+    "Latitude": 53.55929588748395,
+    "Longitude": -1.970131643542076,
+    "Ticked": ""
+  },
+  {
+    "Name": "Sheen Hill *",
+    "Grid Reference": "SK 11055 62539",
+    "Area": "Sheen Hill *",
+    "Latitude": 53.15986785162939,
+    "Longitude": -1.8361196625135532,
+    "Ticked": ""
+  },
+  {
+    "Name": "Shining Tor",
+    "Grid Reference": "SJ 99463 73739",
+    "Area": "Shining Tor",
+    "Latitude": 53.26065487513674,
+    "Longitude": -2.0095092982358556,
+    "Ticked": ""
+  },
+  {
+    "Name": "Shutlingsloe",
+    "Grid Reference": "SJ 97645 69574",
+    "Area": "Shutlingsloe",
+    "Latitude": 53.2232112000727,
+    "Longitude": -2.0367303145273774,
+    "Ticked": ""
+  },
+  {
+    "Name": "Sir William Hill",
+    "Grid Reference": "SK 21538 77891",
+    "Area": "Sir William Hill",
+    "Latitude": 53.29754346006918,
+    "Longitude": -1.6783071062514965,
+    "Ticked": "Y"
+  },
+  {
+    "Name": "Slipper Low *",
+    "Grid Reference": "SK 22701 56897",
+    "Area": "Slipper Low *",
+    "Latitude": 53.108786437547636,
+    "Longitude": -1.6623429209702105,
+    "Ticked": ""
+  },
+  {
+    "Name": "Snailsden",
+    "Grid Reference": "SE 13198 03311",
+    "Area": "Snailsden",
+    "Latitude": 53.526302289550074,
+    "Longitude": -1.8023846161568862,
+    "Ticked": ""
+  },
+  {
+    "Name": "Soles Hill *",
+    "Grid Reference": "SK 09794 52505",
+    "Area": "Soles Hill *",
+    "Latitude": 53.06969703567259,
+    "Longitude": -1.8552814455999465,
+    "Ticked": ""
+  },
+  {
+    "Name": "Sough Top *",
+    "Grid Reference": "SK 13330 70896",
+    "Area": "Sough Top *",
+    "Latitude": 53.234935740636644,
+    "Longitude": -1.8017495823015597,
+    "Ticked": ""
+  },
+  {
+    "Name": "South Nab",
+    "Grid Reference": "SE 15629 00319",
+    "Area": "South Nab",
+    "Latitude": 53.4993431214405,
+    "Longitude": -1.7658622974260578,
+    "Ticked": ""
+  },
+  {
+    "Name": "Sponds Hill *",
+    "Grid Reference": "SJ 97001 80294",
+    "Area": "Sponds Hill *",
+    "Latitude": 53.31956719642329,
+    "Longitude": -2.046480969174214,
+    "Ticked": ""
+  },
+  {
+    "Name": "Stanage Edge (White Path Moss)",
+    "Grid Reference": "SK 25094 83017",
+    "Area": "Stanage Edge (White Path Moss)",
+    "Latitude": 53.34346273291746,
+    "Longitude": -1.6245494424253526,
+    "Ticked": ""
+  },
+  {
+    "Name": "The Edge (Kinder Scout PLatitudeeau)",
+    "Grid Reference": "SK 07698 89370",
+    "Area": "The Edge (Kinder Scout PLatitudeeau)",
+    "Latitude": 53.401102570004305,
+    "Longitude": -1.8856857569270105,
+    "Ticked": ""
+  },
+  {
+    "Name": "The Roaches",
+    "Grid Reference": "SK 00107 63891",
+    "Area": "The Roaches",
+    "Latitude": 53.17213323205136,
+    "Longitude": -1.9998549648856856,
+    "Ticked": ""
+  },
+  {
+    "Name": "Wardlow",
+    "Grid Reference": "SK 17851 73972",
+    "Area": "Wardlow",
+    "Latitude": 53.2624532107289,
+    "Longitude": -1.7338451195907967,
+    "Ticked": ""
+  },
+  {
+    "Name": "West End Moor",
+    "Grid Reference": "SK 12878 93255",
+    "Area": "West End Moor",
+    "Latitude": 53.43592298420749,
+    "Longitude": -1.807620420840368,
+    "Ticked": ""
+  },
+  {
+    "Name": "West Nab",
+    "Grid Reference": "SE 07644 08792",
+    "Area": "West Nab",
+    "Latitude": 53.57567613618495,
+    "Longitude": -1.8860320012205967,
+    "Ticked": ""
+  },
+  {
+    "Name": "Wetton Low *",
+    "Grid Reference": "SK 11223 54743",
+    "Area": "Wetton Low *",
+    "Latitude": 53.08978662894985,
+    "Longitude": -1.8338770962530553,
+    "Ticked": ""
+  },
+  {
+    "Name": "Wheston *",
+    "Grid Reference": "SK 13841 76565",
+    "Area": "Wheston *",
+    "Latitude": 53.2858797755463,
+    "Longitude": -1.7938492643133197,
+    "Ticked": ""
+  },
+  {
+    "Name": "White Edge",
+    "Grid Reference": "SK 26378 75855",
+    "Area": "White Edge",
+    "Latitude": 53.27902506893709,
+    "Longitude": -1.6058567330229192,
+    "Ticked": "Y"
+  },
+  {
+    "Name": "Whitwell Moor",
+    "Grid Reference": "SK 24972 97237",
+    "Area": "Whitwell Moor",
+    "Latitude": 53.47128286358515,
+    "Longitude": -1.6252610749225844,
+    "Ticked": ""
+  },
+  {
+    "Name": "Wibben Hill *",
+    "Grid Reference": "SK 18374 52247",
+    "Area": "Wibben Hill *",
+    "Latitude": 53.06715355523068,
+    "Longitude": -1.727244266333165,
+    "Ticked": ""
+  },
+  {
+    "Name": "Winhill Pike (Win Hill)",
+    "Grid Reference": "SK 18678 85093",
+    "Area": "Winhill Pike (Win Hill)",
+    "Latitude": 53.36238694708201,
+    "Longitude": -1.7207962294398254,
+    "Ticked": ""
+  },
+  {
+    "Name": "Wolfscote Hill",
+    "Grid Reference": "SK 13705 58323",
+    "Area": "Wolfscote Hill",
+    "Latitude": 53.121909646670225,
+    "Longitude": -1.7966658082700453,
+    "Ticked": ""
+  },
+  {
+    "Name": "Wormhill *",
+    "Grid Reference": "SK 10721 75621",
+    "Area": "Wormhill *",
+    "Latitude": 53.277466045422024,
+    "Longitude": -1.8406798602306362,
+    "Ticked": ""
+  }
+]
