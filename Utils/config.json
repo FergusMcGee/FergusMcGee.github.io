@@ -1,0 +1,20 @@
+{
+    "notifications": [
+        {
+            "message_text": "Take a break and stretch!",
+            "notification_time": "03:00",
+            "repeat_interval": "hourly"
+        },
+        {
+            "message_text": "Don't forget to drink water!",
+            "notification_time": "15:00"
+        },
+        {
+            "message_text": "Time for a walk!",
+            "notification_time": "18:30",
+            "repeat_interval": "daily"
+        }
+    ],
+    "business_hours_start": "09:00",
+    "business_hours_end": "17:30"
+}
