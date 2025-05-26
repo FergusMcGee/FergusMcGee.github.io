@@ -1,0 +1,64 @@
+2025-05-13 12:12:49,739 - INFO - Getting file
+2025-05-13 12:12:49,739 - INFO - Checking irishrefugeecouncil
+2025-05-13 12:12:50,327 - INFO - Page has changed: https://www.irishrefugeecouncil.ie/work-for-us
+2025-05-13 12:12:50,707 - INFO - Checking org/vacancies
+2025-05-13 12:12:50,951 - INFO - No changes detected for https://nascireland.org/vacancies
+2025-05-13 12:12:50,951 - INFO - Checking amnesty
+2025-05-13 12:12:54,747 - INFO - No changes detected for https://www.amnesty.ie/get-involved/work-with-us/
+2025-05-13 12:12:54,747 - INFO - Checking ageaction
+2025-05-13 12:12:55,209 - INFO - Page has changed: https://www.ageaction.ie/work-with-us/
+2025-05-13 12:12:55,273 - INFO - Checking mrci
+2025-05-13 12:12:56,293 - INFO - Page has changed: https://www.mrci.ie/vacancies/
+2025-05-13 12:12:56,409 - INFO - Checking volunteer
+2025-05-13 12:12:57,087 - INFO - Page has changed: https://www.volunteer.ie/vacancies/
+2025-05-13 12:12:57,175 - INFO - Checking ie/get-involved/vacancies-volunteering/
+2025-05-13 12:12:58,804 - INFO - Page has changed: https://onefamily.ie/get-involved/vacancies-volunteering/
+2025-05-13 12:12:58,909 - INFO - Checking ie/work-with-us/
+2025-05-13 12:12:59,437 - INFO - Page has changed: https://outhouse.ie/work-with-us/
+2025-05-13 12:12:59,542 - INFO - Checking immigrantcouncil
+2025-05-13 12:13:00,096 - INFO - Page has changed: https://www.immigrantcouncil.ie/work-with-us
+2025-05-13 12:13:00,209 - INFO - Checking ie/vacancies/
+2025-05-13 12:13:01,147 - INFO - No changes detected for https://crosscare.ie/vacancies/
+2025-05-13 12:13:01,148 - INFO - Checking ie/careers/
+2025-05-13 12:13:01,628 - INFO - Page has changed: https://threshold.ie/careers/
+2025-05-13 12:13:01,724 - INFO - Checking focusireland
+2025-05-13 12:13:02,979 - INFO - Page has changed: https://www.focusireland.ie/experienced-professionals/#current_opportunities
+2025-05-13 12:13:03,123 - INFO - Checking cancer
+2025-05-13 12:13:03,335 - ERROR - HTTP error for URL https://www.cancer.ie/about-us/careers: 403 Forbidden
+2025-05-13 12:13:03,342 - INFO - Checking dspca
+2025-05-13 12:13:06,278 - INFO - Page has changed: https://www.dspca.ie/latest-news/
+2025-05-13 12:13:06,368 - INFO - Checking ie/category/jobs/
+2025-05-13 12:13:10,436 - INFO - No changes detected for https://iwt.ie/category/jobs/
+2025-05-13 12:13:10,437 - INFO - Checking ie/jobs/
+2025-05-13 12:13:10,835 - INFO - Page has changed: https://ispca.ie/jobs/
+2025-05-13 12:13:10,917 - INFO - Checking ie/careers/
+2025-05-13 12:13:11,642 - INFO - Page has changed: https://irishheart.ie/careers/
+2025-05-13 12:13:11,794 - INFO - Checking unicef
+2025-05-13 12:13:12,648 - INFO - No changes detected for https://www.unicef.ie/about/working-with-us/
+2025-05-13 12:13:12,650 - INFO - Checking svp
+2025-05-13 12:13:15,056 - INFO - Page has changed: https://www.svp.ie/careers/work-with-us/
+2025-05-13 12:13:15,148 - INFO - Checking ie/about/jobs-opportunities/current-vacancies/
+2025-05-13 12:13:16,365 - INFO - Page has changed: https://imma.ie/about/jobs-opportunities/current-vacancies/
+2025-05-13 12:13:16,437 - INFO - Checking ie/news/
+2025-05-13 12:13:18,747 - INFO - Page has changed: https://mariekeating.ie/news/
+2025-05-13 12:13:18,815 - INFO - Checking mentalhealthireland
+2025-05-13 12:13:19,433 - INFO - Page has changed: https://www.mentalhealthireland.ie/mental-health-ireland-jobs/
+2025-05-13 12:13:19,515 - INFO - Checking redcross
+2025-05-13 12:13:19,823 - INFO - Page has changed: https://www.redcross.ie/careers/
+2025-05-13 12:13:19,923 - INFO - Checking ie/careers/
+2025-05-13 12:13:20,524 - INFO - Page has changed: https://jigsaw.ie/careers/
+2025-05-13 12:13:20,639 - INFO - Checking bas
+2025-05-13 12:13:21,898 - INFO - Page has changed: https://www.bas.ac.uk/jobs/vacancies/
+2025-05-13 12:13:22,028 - INFO - Checking ie/news-listing/
+2025-05-13 12:13:22,780 - INFO - No changes detected for https://breakthroughcancerresearch.ie/news-listing/
+2025-05-13 12:13:22,782 - INFO - Checking antaisce
+2025-05-13 12:13:23,290 - INFO - Page has changed: https://www.antaisce.org/vacancies
+2025-05-13 12:13:23,400 - INFO - Checking ie/the-ien-is-hiring/
+2025-05-13 12:13:32,055 - ERROR - HTTP error for URL https://ien.ie/the-ien-is-hiring/: 404 Not Found
+2025-05-13 12:13:32,058 - INFO - Checking friendsoftheearth
+2025-05-13 12:13:34,221 - INFO - Page has changed: https://www.friendsoftheearth.ie/jobs/
+2025-05-13 12:13:34,339 - INFO - Checking bluecross
+2025-05-13 12:13:42,125 - INFO - No changes detected for https://www.bluecross.ie/work-with-us/
+2025-05-13 12:13:42,125 - INFO - Checking org/about-us/careers
+2025-05-13 12:13:42,417 - INFO - Page has changed: https://nihrc.org/about-us/careers
+2025-05-13 12:13:42,498 - INFO - Updated CSV file saved.

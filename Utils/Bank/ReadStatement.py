@@ -78,9 +78,6 @@ def parse_pdf_to_dataframe(pdf_path):
                         except ValueError:
                             data.append({"Desc": description, "Value": ""})
 
-
-
-
     # Create DataFrame
     df = pd.DataFrame(data)
     return df
